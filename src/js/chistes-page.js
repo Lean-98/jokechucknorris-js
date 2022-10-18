@@ -43,8 +43,6 @@ const crearChistesHtml = () => {
     const html = `
     <div class="col-md-12 text-center">
     
-        <h2>Chuck Norris Jokes</h2>
-
         <div class=" img-fluid ">
         <img src="./assets/img/chuck-norris.png" alt="imagen">
         </div>
